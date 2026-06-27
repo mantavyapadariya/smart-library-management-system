@@ -1,0 +1,23 @@
+[
+    {
+        "id": 101,
+        "title": "python",
+        "author": "mantavya",
+        "category": "oops",
+        "Quantity": 11
+    },
+    {
+        "id": 102,
+        "title": "java",
+        "author": "ananya",
+        "category": "oops",
+        "Quantity": 0
+    },
+    {
+        "id": 103,
+        "title": "c++",
+        "author": "shraven",
+        "category": "game devlopment",
+        "Quantity": 33
+    }
+]
