@@ -39,23 +39,6 @@ A console-based **Library Management System** developed in **Python**. The proje
 
 ---
 
-## 📂 Project Structure
-
-```
-smart-library-management-system
-│
-├── main.py
-├── admin.json
-├── user.json
-├── book.json
-├── issued_books.json
-├── reservations.json
-├── ratings.json
-├── fines.json
-├── history.json
-└── library.log
-```
-
 ---
 
 ## ▶️ How to Run
